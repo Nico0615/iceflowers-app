@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Ice Flowers</string>
+    <string name="logout">Logout</string>
+
+    <string name="hint_first_name">First Name <font color="#FF0000">*</font></string>
+        <string name="hint_last_name">Last Name <font color="#FF0000">*</font></string>
+        <string name="hint_phone">Phone Number <font color="#FF0000">*</font></string>
+        <string name="hint_birth">Birth Date <font color="#FF0000">*</font></string>
+        <string name="hint_email">Email <font color="#FF0000">*</font></string>
+        <string name="hint_password">Password <font color="#FF0000">*</font></string>
+        <string name="hint_confirm_password">Confirm Password <font color="#FF0000">*</font></string>
+</resources>

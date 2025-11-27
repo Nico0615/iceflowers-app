@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HorizontalScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/pagination_root"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:fillViewport="true"
+    android:scrollbars="none"
+    android:clipToPadding="false"
+    android:paddingTop="8dp"
+    android:paddingBottom="20dp"
+    android:paddingHorizontal="8dp">
+
+    <LinearLayout
+        android:id="@+id/pagination_container"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:clipToPadding="false"
+        android:clipChildren="false"
+        android:layout_gravity="center"
+        android:dividerPadding="4dp" />
+</HorizontalScrollView>
